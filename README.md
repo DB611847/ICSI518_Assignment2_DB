@@ -1,4 +1,4 @@
-# ICSI518_Assignment2_DB
+# ICSI518_Assignment2_DB \n
 I have familiarised myself with react.js
 I have installed microsoft visual studio
 I have installed json on terminal
