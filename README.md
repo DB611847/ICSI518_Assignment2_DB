@@ -1,3 +1,5 @@
+Git Hub Repo: https://github.com/DB611847/ICSI518_Assignment2_DB.git 
+
 # ICSI518_Assignment2_DB
 I have familiarised myself with react.js.
 I have installed microsoft visual studio.
